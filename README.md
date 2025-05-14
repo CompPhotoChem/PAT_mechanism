@@ -1,7 +1,9 @@
 # ADC(2) and (TD-)DFT Simulation Results  
 
 This repository contains results from ground- and excited-state electronic structure simulations of compounds **1a** and **1b**.
-The data is organized by property and method, as outlined below.  
+The data is organized by property and method, as outlined below.
+
+<img src="https://github.com/CompPhotoChem/PAT_mechanism/blob/main/Figure_structure_1a_1b.png" width="600" />
 
 [![DOI](https://zenodo.org/badge/983619007.svg)](https://doi.org/10.5281/zenodo.15413053)
 
