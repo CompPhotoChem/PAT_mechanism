@@ -10,7 +10,7 @@ The data is organized by property and method, as outlined below.
 XYZ files containing the optimized structures of key stationary points. Coordinates are given in Angström.  
 ---  
 
-### [`gsa` — Ground-State Absorption](https://github.com/h-martina/PAT/tree/main/gsa)  
+### [`gsa` — Ground-State Absorption](https://github.com/CompPhotoChem/PAT_mechanism/tree/main/gsa)  
 
 Time-dependent DFT (TD-DFT) simulations of ground-state absorption properties for **1a** and **1b**.  
 - *Computational details* (Gaussian 16W):
