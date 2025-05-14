@@ -5,7 +5,7 @@ The data is organized by property and method, as outlined below.
 
 ## Data in the repository 
 ---  
-### [`geoms` — Optimized Geometries](https://github.com/h-martina/PAT/tree/main/xyzfiles)  
+### [`geoms` — Optimized Geometries](https://github.com/CompPhotoChem/PAT_mechanism/tree/main/geoms)  
 
 XYZ files containing the optimized structures of key stationary points. Coordinates are given in Angström.  
 ---  
@@ -20,9 +20,11 @@ Time-dependent DFT (TD-DFT) simulations of ground-state absorption properties fo
   
 **File structure**: 
 - **1st column**: vertical transition energies (in eV)
-- - **2nd column**: oscillator strengths
+- **2nd column**: oscillator strengths
+
 ---
-### [`esa` — Excited-State Absorption](https://github.com/h-martina/PAT/tree/main/esa)  
+
+### [`esa` — Excited-State Absorption](https://github.com/CompPhotoChem/PAT_mechanism/tree/main/esa)  
 
 Contains excited-state absorption properties for different electronic transitions.
 
@@ -39,7 +41,7 @@ Contains excited-state absorption properties for different electronic transition
 - **1st column**: vertical transition energies (in eV)
 - **2nd column**: oscillator strengths
 
-### [`scan` — Potential Energy Surface Scans](https://github.com/h-martina/PAT/tree/main/scan)  
+### [`scan` — Potential Energy Surface Scans](https://github.com/CompPhotoChem/PAT_mechanism/tree/main/scan)  
 
 - `PES_1b_relScan-T1_b3lyp.dat`: Relaxed scan of the **SC=CS** dihedral angle on the **T₁** surface for **1b**.
 Simulated over a range of 180° to 0° in 5° steps.
