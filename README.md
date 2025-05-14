@@ -7,7 +7,9 @@ The data is organized by property and method, as outlined below.
 ---  
 ### [`geoms` — Optimized Geometries](https://github.com/CompPhotoChem/PAT_mechanism/tree/main/geoms)  
 
-XYZ files containing the optimized structures of key stationary points. Coordinates are given in Angström.  
+XYZ files containing the optimized structures of key stationary points. 
+Coordinates are given in Angström.  
+
 ---  
 
 ### [`gsa` — Ground-State Absorption](https://github.com/CompPhotoChem/PAT_mechanism/tree/main/gsa)  
