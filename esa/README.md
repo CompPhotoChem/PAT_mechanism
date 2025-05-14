@@ -1,4 +1,4 @@
-### [`esa` — Excited-State Absorption](https://github.com/CompPhotoChem/PAT_mechanism/tree/main/esa)  
+### `esa` — Excited-State Absorption
 
 Contains excited-state absorption properties for different electronic transitions.
 
