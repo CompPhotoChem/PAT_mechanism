@@ -3,6 +3,8 @@
 This repository contains results from ground- and excited-state electronic structure simulations of compounds **1a** and **1b**.
 The data is organized by property and method, as outlined below.  
 
+[![DOI](https://zenodo.org/badge/983619007.svg)](https://doi.org/10.5281/zenodo.15413053)
+
 ## Data in the repository 
 ---  
 ### [`geoms` — Optimized Geometries](https://github.com/CompPhotoChem/PAT_mechanism/tree/main/geoms)  
@@ -72,3 +74,5 @@ Simulated over a range of 180° to 0° in 5° steps.
 - **7th column**: spin–orbit coupling between **S₀** and **T₁** (in cm⁻¹)
 
 ---
+
+[![DOI](https://zenodo.org/badge/983619007.svg)](https://doi.org/10.5281/zenodo.15413053)
