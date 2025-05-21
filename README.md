@@ -77,4 +77,16 @@ Simulated over a range of 180° to 0° in 5° steps.
 
 ---
 
+### [`tas` — Experimental Transient Absorption Spectra](https://github.com/CompPhotoChem/PAT_mechanism/tree/main/tas)  
+
+- Helios: delay times 0 to 7200 ps
+- EOS: delay times 1 ns to 400 µs
+
+**File structure:**
+- **1st column**: wavelength in nm
+- **1st row**: time in ps (Helios) or µs (EOS)
+- **2nd to last column**: differential optical density
+
+---
+
 [![DOI](https://zenodo.org/badge/983619007.svg)](https://doi.org/10.5281/zenodo.15413053)
